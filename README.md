@@ -1,2 +1,2 @@
-# Srcipt2
+# Script2
 sequel of story
